@@ -14,6 +14,7 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 <a href="https://fb.com/https://www.facebook.com/rahman.talukder.984/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/rahman.talukder.984/" height="30" width="40" /></a>
 </p>
 <h2 align="left">Programming Languages:</h2>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
 
 
