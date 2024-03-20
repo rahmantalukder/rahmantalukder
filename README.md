@@ -6,7 +6,7 @@ I'm a professional Django and React developer. I can develop any website using D
  SECURED. My HTML, CSS, Bootstrap, Git and GitHub, Django, Django REST Framework and React coding skills are very strong. I have acquired f and popularity as a full-stack developer. I give my best services for my client or company. Company satisfaction is my main goal. 
 
 Skills: VUE JS / REACT / JS / HTML / CSS
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
