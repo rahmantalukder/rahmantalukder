@@ -1,7 +1,7 @@
 
 ![banner](https://github.com/user-attachments/assets/3ed899bc-b9d4-4e0d-aadc-226342843c01)
 
-<img align="right" alt="codeing" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/media/79e26abb3fb85b42f2722cf22da095dc.gif">
+<img align="right" alt="codeing" width="400" margin-top="20px"src="https://cdn.dribbble.com/users/926537/screenshots/4502924/media/79e26abb3fb85b42f2722cf22da095dc.gif">
 
 
 
