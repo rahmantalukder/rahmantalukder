@@ -34,10 +34,11 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 <h2 align="left">Frontend Development:</h2>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
- <img src="https://copyassignment.com/wp-content/uploads/2022/06/Django-logo-474x360-1.jpg" alt="css3" width="40" height="40"/> 
+ <img src="https://image.pngaaa.com/388/3920388-middle.png" alt="css3" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
 
 <h2 align="left">Backend Development:</h2>
+ <img src="https://copyassignment.com/wp-content/uploads/2022/06/Django-logo-474x360-1.jpg" alt="css3" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
 
 <h2 align="left">Database:</h2>
